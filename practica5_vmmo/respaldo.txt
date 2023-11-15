@@ -1,0 +1,8 @@
+hola mundo uno
+hola mundo 
+hola mundo 2
+hola mundo 3
+
+salto de linea
+otro
+adios
